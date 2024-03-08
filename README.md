@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Szhibam
-- 👀 I’m interested in DSA and ML
+- 👀 I’m interested in DSA and ML and Web DEvelopment
 - 🌱 I’m currently learning Machine Learning
 
 - 📫 How to reach me 
