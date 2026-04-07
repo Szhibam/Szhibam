@@ -5,7 +5,7 @@
 - ML and DATA Analysis
 - Web Development and backend management
 
-- 📫 How to reach me 
+- 📫 How to reach me : [https://www.linkedin.com/in/shibam-banerjee-szhibam/]
 <!---
 Szhibam/Szhibam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
