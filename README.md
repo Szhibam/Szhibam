@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @Szhibam
-- 👀 I’m interested in DSA and ML and Web DEvelopment
-- 🌱 I’m currently learning Machine Learning
+- SDE at a startup
+- Just a BUILDER
+- 800+ DSA Question Solved [Coding Ninjas Top performer]
+- ML and DATA Analysis
+- Web Development and backend management
 
 - 📫 How to reach me 
 <!---
